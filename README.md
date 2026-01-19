@@ -4,7 +4,7 @@ This website provides the datasets and source codes in our work of
 ***An RAG-based Opinion Question-Answering Framework on E-commerce Reviews***
 
 We build a [demonstration plateform](http://roqua.cpolar.top/) to present our work. 
-
+Due to the cost of renting server, The website http://roqua.cpolar.cn/ will be started on request.
 <hr>
 
 1. The folder of 'qa-data' contains three question-answering dataset used in our work.
